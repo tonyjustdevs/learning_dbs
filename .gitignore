@@ -1,0 +1,7 @@
+.venv
+
+# sqlite db files
+*db.sqlite3
+
+# tpflies
+tmptp
