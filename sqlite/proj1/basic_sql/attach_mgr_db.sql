@@ -1,0 +1,1 @@
+ATTACH DATABASE 'managers_db.sqlite' as managers_db;

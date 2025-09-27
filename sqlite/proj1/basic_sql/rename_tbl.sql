@@ -1,0 +1,1 @@
+ALTER TABLE old_nm RENAME TO new_nm;

@@ -1,0 +1,2 @@
+ALTER TABLE players_tbl tid INTEGER NOT NULL
+    FOREIGN KEY (tid) REFERENCES mate;

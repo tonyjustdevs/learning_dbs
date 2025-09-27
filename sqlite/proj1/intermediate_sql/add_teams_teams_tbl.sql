@@ -1,0 +1,10 @@
+INSERT INTO teams_tbl (tname) VALUES ('FC Barcelona');
+INSERT INTO teams_tbl (tname) VALUES ('Real Madrid');
+INSERT INTO teams_tbl (tname) VALUES ('PSG');
+INSERT INTO teams_tbl (tname) VALUES ('Manchester United');
+INSERT INTO teams_tbl (tname) VALUES ('Manchester City');
+INSERT INTO teams_tbl (tname) VALUES ('Tottenham');
+INSERT INTO teams_tbl (tname) VALUES ('Chelsea');
+INSERT INTO teams_tbl (tname) VALUES ('AC Milan');
+INSERT INTO teams_tbl (tname) VALUES ('Inter Milan');
+INSERT INTO teams_tbl (tname) VALUES ('Arsenal');

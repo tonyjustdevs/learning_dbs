@@ -1,0 +1,1 @@
+INSERT INTO players_tbl (name, value) VALUES ("messi", 10);

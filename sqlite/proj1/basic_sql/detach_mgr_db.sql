@@ -1,0 +1,1 @@
+DETACH DATABASE 'managers_db';
